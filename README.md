@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Duy Khai — retro neon ECE and AI Research banner" width="100%" />
+<img src="https://raw.githubusercontent.com/AIVIETNAM-AIO-khaisiubeo/AIVIETNAM-AIO-khaisiubeo/main/assets/stranger-things-inspired-banner.svg?v=2" alt="Duy Khai — 1980s supernatural mystery banner with crimson title, glowing alphabet lights, fog and dark forest" width="100%" />
 
 <br/>
 
