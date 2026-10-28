@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Duy Khai — ECE and AI Research</title>
+  <desc id="desc">Electrical and Computer Engineering, AI Research</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0F766E"/>
+      <stop offset="50%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="18" fill="#0B1220"/>
+  <path d="M0 0H1200V150C1010 225 850 145 650 178S280 250 0 155Z" fill="url(#bg)"/>
+  <path d="M0 0H1200V78C970 140 780 72 565 105S210 166 0 95Z" fill="#FFFFFF" opacity=".08"/>
+  <text x="600" y="91" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#FFFFFF">Duy Khai</text>
+  <text x="600" y="130" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#FFFFFF">Electrical &amp; Computer Engineering  |  AI Research</text>
+</svg>
