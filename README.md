@@ -19,13 +19,6 @@
 [![Followers](https://img.shields.io/github/followers/AIVIETNAM-AIO-khaisiubeo?style=flat-square&logo=github&color=8b5cf6&label=followers)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=followers)
 [![Stars](https://img.shields.io/github/stars/AIVIETNAM-AIO-khaisiubeo?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=apachespark&color=ffb454&label=stars)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories)
 
-</div>
-
-<div align="center">
-  <sub>✦ ──────────────── ◈ ──────────────── ✦</sub><br/>
-  <sub><code>FIELD NOTES · CLASSIFIED? NOT REALLY · JUST BUILDING THINGS THAT MATTER</code></sub><br/>
-  <sub>✦ ──────────────── ◈ ──────────────── ✦</sub>
-</div>
 
 ---
 
