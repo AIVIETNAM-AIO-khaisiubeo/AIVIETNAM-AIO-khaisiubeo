@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Duy Khai — The Other Side</title>
-<desc id="desc">Original 1980s supernatural mystery atmosphere: foggy pine forest, crimson lightning, a glowing alphabet wall and warm Christmas lights, with Duy Khai in cinematic red lettering.</desc>
+<title id="title">Nguyễn Duy Khải — The Other Side</title>
+<desc id="desc">Original 1980s supernatural mystery atmosphere: foggy pine forest, crimson lightning, a glowing alphabet wall and warm Christmas lights, with Nguyễn Duy Khải in cinematic red lettering.</desc>
 <defs>
  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#050509"/><stop offset=".52" stop-color="#18070e"/><stop offset="1" stop-color="#310913"/></linearGradient>
  <radialGradient id="redfog"><stop stop-color="#a80f24" stop-opacity=".58"/><stop offset="1" stop-color="#280610" stop-opacity="0"/></radialGradient>
@@ -28,7 +28,7 @@
 <!-- foreground fog -->
 <ellipse cx="600" cy="284" rx="600" ry="95" fill="#5d0b1a" opacity=".24" filter="url(#soft)"/>
 <!-- title, original lettering rather than the show's logo -->
-<text x="600" y="166" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="72" font-weight="bold" letter-spacing="7" fill="#8c061b" opacity=".9" filter="url(#glow)">DUY KHAI</text>
+<text x="600" y="166" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="72" font-weight="bold" letter-spacing="7" fill="#8c061b" opacity=".9" filter="url(#glow)">NGUYỄN DUY KHẢI</text>
 <text x="600" y="161" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="72" font-weight="bold" letter-spacing="7" fill="url(#letters)" stroke="#ff3a4e" stroke-width="1.2" filter="url(#glow)">DUY KHAI</text>
 <path d="M270 178H930" stroke="#f52a43" stroke-width="1.2" opacity=".9" filter="url(#glow)"/>
 <text x="600" y="205" text-anchor="middle" font-family="Georgia,serif" font-size="17" letter-spacing="5" fill="#f7d8d8">ELECTRICAL &amp; COMPUTER ENGINEERING</text>
