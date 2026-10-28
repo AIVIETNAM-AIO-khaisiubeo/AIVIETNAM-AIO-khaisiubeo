@@ -2,8 +2,12 @@
 
 <h1 align="center">✦ Nguyen Duy Khai · ECE & AI Research</h1>
 <p align="center"><em>Curiosity from the ordinary world. Ideas from the other side.</em></p>
+<p align="center">
+  🎓 <b>Host university:</b> <a href="https://www.vgu.edu.vn/">Vietnamese-German University (VGU)</a><br/>
+  ✈️ <b>Exchange university:</b> <a href="https://www.frankfurt-university.de/en/">Frankfurt University of Applied Sciences (Frankfurt UAS)</a>
+</p>
 
-<img src="https://raw.githubusercontent.com/AIVIETNAM-AIO-khaisiubeo/AIVIETNAM-AIO-khaisiubeo/main/assets/stranger-things-inspired-banner.svg?v=2" alt="Nguyen Duy Khai — 1980s supernatural mystery banner with crimson title, glowing alphabet lights, fog and dark forest" width="100%" />
+<img src="https://raw.githubusercontent.com/AIVIETNAM-AIO-khaisiubeo/AIVIETNAM-AIO-khaisiubeo/main/assets/stranger-things-inspired-banner.svg?v=3" alt="Nguyen Duy Khai — 1980s supernatural mystery banner with crimson title, glowing alphabet lights, fog and dark forest" width="100%" />
 
 <br/>
 
