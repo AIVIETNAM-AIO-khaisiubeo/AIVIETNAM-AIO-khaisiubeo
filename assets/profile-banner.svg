@@ -1,16 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
   <title id="title">Duy Khai — ECE and AI Research</title>
-  <desc id="desc">Electrical and Computer Engineering, AI Research</desc>
+  <desc id="desc">A retro neon computer terminal aesthetic with an 1980s supernatural science-fiction atmosphere.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0F766E"/>
-      <stop offset="50%" stop-color="#0EA5E9"/>
-      <stop offset="100%" stop-color="#1D4ED8"/>
+    <linearGradient id="night" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#080611"/>
+      <stop offset="0.58" stop-color="#16091f"/>
+      <stop offset="1" stop-color="#090817"/>
     </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff3158"/>
+      <stop offset="0.5" stop-color="#ff1744"/>
+      <stop offset="1" stop-color="#ff7a59"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c2cff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ff3158" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#7c2cff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scanlines" width="4" height="5" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity=".07"/>
+    </pattern>
+    <clipPath id="screen"><rect x="8" y="8" width="1184" height="294" rx="10"/></clipPath>
   </defs>
-  <rect width="1200" height="230" rx="18" fill="#0B1220"/>
-  <path d="M0 0H1200V150C1010 225 850 145 650 178S280 250 0 155Z" fill="url(#bg)"/>
-  <path d="M0 0H1200V78C970 140 780 72 565 105S210 166 0 95Z" fill="#FFFFFF" opacity=".08"/>
-  <text x="600" y="91" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#FFFFFF">Duy Khai</text>
-  <text x="600" y="130" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#FFFFFF">Electrical &amp; Computer Engineering  |  AI Research</text>
+  <g clip-path="url(#screen)">
+    <rect width="1200" height="310" fill="url(#night)"/>
+    <g fill="#f4d9ff" opacity=".7">
+      <circle cx="78" cy="43" r="1.4"/><circle cx="158" cy="76" r="1"/><circle cx="264" cy="32" r="1.2"/>
+      <circle cx="362" cy="62" r="1"/><circle cx="474" cy="26" r="1.3"/><circle cx="725" cy="39" r="1.1"/>
+      <circle cx="843" cy="65" r="1.3"/><circle cx="961" cy="29" r="1"/><circle cx="1084" cy="56" r="1.4"/>
+      <circle cx="1141" cy="95" r="1"/>
+    </g>
+    <path d="M0 210 L115 158 190 188 287 119 370 174 458 134 540 188 635 143 725 181 823 127 911 176 1003 133 1095 179 1200 145V310H0Z" fill="#160e2a"/>
+    <path d="M0 233 L150 202 270 227 405 191 560 229 710 198 860 230 1010 194 1200 224V310H0Z" fill="#0d1025"/>
+    <path d="M0 228H1200" stroke="url(#horizon)" stroke-width="2" filter="url(#glow)"/>
+    <g stroke="#6c35ff" stroke-width="1" opacity=".43">
+      <path d="M600 228L0 310M600 228L120 310M600 228L260 310M600 228L400 310M600 228L520 310M600 228L680 310M600 228L800 310M600 228L940 310M600 228L1080 310M600 228L1200 310"/>
+      <path d="M0 246H1200M0 265H1200M0 286H1200M0 305H1200"/>
+    </g>
+    <g font-family="'Courier New', monospace" font-size="12" fill="#a5f3fc" letter-spacing="2">
+      <text x="48" y="42">[ SIGNAL FOUND ]</text>
+      <text x="1152" y="42" text-anchor="end">ECE / AI LAB // 199X</text>
+    </g>
+    <g fill="none" stroke="#ff3158" stroke-width="1.5" opacity=".8">
+      <path d="M48 57h58l8 8h38"/><path d="M1152 57h-58l-8 8h-38"/>
+      <path d="M48 78h20m8 0h5m8 0h30"/><path d="M1152 78h-20m-8 0h-5m-8 0h-30"/>
+    </g>
+    <text x="600" y="128" text-anchor="middle" font-family="'Courier New', monospace" font-size="65" font-weight="bold" letter-spacing="7" fill="#ff3158" opacity=".55">DUY KHAI</text>
+    <text x="600" y="124" text-anchor="middle" font-family="'Courier New', monospace" font-size="65" font-weight="bold" letter-spacing="7" fill="#fff0f3" stroke="#ff3158" stroke-width=".6" filter="url(#glow)">DUY KHAI</text>
+    <text x="600" y="158" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" font-weight="bold" letter-spacing="3" fill="#ffb6c6">ELECTRICAL &amp; COMPUTER ENGINEERING</text>
+    <text x="600" y="183" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" letter-spacing="4" fill="#8be9fd">AI RESEARCH // COMPUTER VISION // MEDICAL AI</text>
+    <rect x="415" y="197" width="370" height="1" fill="#ff3158" opacity=".8"/>
+    <text x="600" y="218" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="2" fill="#c4b5fd">THE FUTURE IS STILL LOADING_</text>
+    <rect width="1200" height="310" fill="url(#scanlines)"/>
+    <rect x="8" y="8" width="1184" height="294" rx="10" fill="none" stroke="#ff3158" stroke-opacity=".55"/>
+  </g>
 </svg>
