@@ -1,26 +1,35 @@
 <div align="center">
 
+<h1>✦ Duy Khai · ECE & AI Research ✦</h1>
+<p><em>Curiosity from the ordinary world. Ideas from the other side.</em></p>
+
 <img src="https://raw.githubusercontent.com/AIVIETNAM-AIO-khaisiubeo/AIVIETNAM-AIO-khaisiubeo/main/assets/stranger-things-inspired-banner.svg?v=2" alt="Duy Khai — 1980s supernatural mystery banner with crimson title, glowing alphabet lights, fog and dark forest" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=700&color=FF3158&center=true&vCenter=true&width=780&height=48&lines=HAWKINS+LAB+TERMINAL+%2F%2F+1983;SUBJECT+011%3A+DUY+KHAI;MEDICAL+AI+%2F%2F+COMPUTER+VISION;GATE+DETECTED%3A+HUMAN-CENTERED+AI" alt="Retro terminal typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=700&color=FF3158&center=true&vCenter=true&width=780&height=48&lines=Hawkins+Lab+terminal+%2F%2F+1983;Subject+011%3A+Duy+Khai;Medical+AI+%2F%2F+computer+vision;Gate+detected%3A+human-centered+AI" alt="Retro terminal typing introduction" />
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-ff3158?style=for-the-badge&labelColor=100817" alt="Status online" />
-  <img src="https://img.shields.io/badge/CLASS-ECE%20%2B%20AI-8b5cf6?style=for-the-badge&labelColor=100817" alt="ECE and AI" />
-  <img src="https://img.shields.io/badge/LOCATION-VGU%20%2F%20GERMANY-67e8f9?style=for-the-badge&labelColor=100817" alt="VGU and Germany" />
+  <img src="https://img.shields.io/badge/Status-Online-ff3158?style=for-the-badge&labelColor=100817" alt="Status online" />
+  <img src="https://img.shields.io/badge/Field-ECE%20%2B%20AI-8b5cf6?style=for-the-badge&labelColor=100817" alt="ECE and AI" />
+  <img src="https://img.shields.io/badge/Based-in-VGU%20%2F%20Germany-67e8f9?style=for-the-badge&labelColor=100817" alt="VGU and Germany" />
 </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-khaisiubeo&style=flat-square&color=ff3158&label=VISITORS)](https://github.com/AIVIETNAM-AIO-khaisiubeo)
-[![Followers](https://img.shields.io/github/followers/AIVIETNAM-AIO-khaisiubeo?style=flat-square&logo=github&color=8b5cf6&label=FOLLOWERS)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=followers)
-[![Stars](https://img.shields.io/github/stars/AIVIETNAM-AIO-khaisiubeo?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=apachespark&color=ffb454&label=STARS)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-khaisiubeo&style=flat-square&color=ff3158&label=visitors)](https://github.com/AIVIETNAM-AIO-khaisiubeo)
+[![Followers](https://img.shields.io/github/followers/AIVIETNAM-AIO-khaisiubeo?style=flat-square&logo=github&color=8b5cf6&label=followers)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=followers)
+[![Stars](https://img.shields.io/github/stars/AIVIETNAM-AIO-khaisiubeo?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=apachespark&color=ffb454&label=stars)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories)
 
+</div>
+
+<div align="center">
+  <sub>✦ ──────────────── ◈ ──────────────── ✦</sub><br/>
+  <sub><code>FIELD NOTES · CLASSIFIED? NOT REALLY · JUST BUILDING THINGS THAT MATTER</code></sub><br/>
+  <sub>✦ ──────────────── ◈ ──────────────── ✦</sub>
 </div>
 
 ---
 
-## <code>01 // HAWKINS LAB PERSONNEL FILE</code>
+## 🗂️ <code>01 · Hawkins Lab personnel file</code>
 
 > `C:\DUYKHAI\PROFILE.exe`  
 > **Electrical & Computer Engineering student @ Vietnamese-German University (VGU)**  
@@ -28,28 +37,28 @@
 
 I'm interested in the intersection of **machine learning, computer vision, medical imaging, and agentic AI**. I like exploring the whole pipeline—not only model architecture and accuracy, but also data quality, calibration, evaluation, deployment, and how humans stay in control.
 
-- <img src="https://img.shields.io/badge/RESEARCH-MEDICAL%20AI-ff3158?style=flat-square&labelColor=100817" alt="Medical AI" /> Medical image segmentation, uncertainty estimation, calibration, and human–AI interaction.
-- <img src="https://img.shields.io/badge/BUILD-PYTORCH%20%2F%20DOCKER-8b5cf6?style=flat-square&labelColor=100817" alt="PyTorch and Docker" /> Modern vision architectures, reproducible ML, APIs, containers, and agentic workflows.
-- <img src="https://img.shields.io/badge/PRINCIPLE-HUMAN%20IN%20THE%20LOOP-67e8f9?style=flat-square&labelColor=100817" alt="Human in the loop" /> Transparent systems should know when to defer—not just when to predict.
+- <img src="https://img.shields.io/badge/Research-Medical%20AI-ff3158?style=flat-square&labelColor=100817" alt="Medical AI" /> Medical image segmentation, uncertainty estimation, calibration, and human–AI interaction.
+- <img src="https://img.shields.io/badge/Build-PyTorch%20%2F%20Docker-8b5cf6?style=flat-square&labelColor=100817" alt="PyTorch and Docker" /> Modern vision architectures, reproducible ML, APIs, containers, and agentic workflows.
+- <img src="https://img.shields.io/badge/Principle-Human%20in%20the%20loop-67e8f9?style=flat-square&labelColor=100817" alt="Human in the loop" /> Transparent systems should know when to defer—not just when to predict.
 
 <details>
-<summary><b>▶ Open terminal: current interests</b></summary>
+<summary><b>▶ Open the terminal · current interests</b></summary>
 
 ```text
 C:\DUYKHAI> type interests.txt
 
-[01] MEDICAL IMAGE SEGMENTATION
-[02] UNCERTAINTY + MODEL CALIBRATION
-[03] COMPUTER VISION / DEEP LEARNING
-[04] AGENTIC AI + HUMAN-AI WORKFLOWS
-[05] DOCKER / REPRODUCIBLE ML SYSTEMS
+[01] Medical image segmentation
+[02] Uncertainty + model calibration
+[03] Computer vision / deep learning
+[04] Agentic AI + human–AI workflows
+[05] Docker / reproducible ML systems
 
 C:\DUYKHAI> _
 ```
 
 </details>
 
-## <code>02 // EXPERIMENTS FROM THE LAB</code>
+## 🧪 <code>02 · Experiments from the lab</code>
 
 <table>
   <tr>
@@ -88,7 +97,7 @@ C:\DUYKHAI> _
 
 <sub>These are research and educational projects, not clinically validated medical devices.</sub>
 
-## <code>03 // LAB EQUIPMENT & FIELD TOOLS</code>
+## 🛠️ <code>03 · Lab equipment & field tools</code>
 
 <div align="center">
 
@@ -102,7 +111,7 @@ C:\DUYKHAI> _
 
 </div>
 
-## <code>04 // POWER GRID TELEMETRY</code>
+## 📡 <code>04 · Power-grid telemetry</code>
 
 <div align="center">
   <img height="175" src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-khaisiubeo&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=100817&title_color=ff3158&icon_color=8b5cf6&text_color=e9d5ff&custom_title=PROFILE%20TELEMETRY" alt="GitHub statistics" />
@@ -113,13 +122,13 @@ C:\DUYKHAI> _
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AIVIETNAM-AIO-khaisiubeo&theme=dark&hide_border=true&background=100817&ring=ff3158&fire=ffb454&currStreakLabel=67e8f9&sideLabels=e9d5ff&dates=9f8fb5" alt="GitHub contribution streak" width="82%" />
 </div>
 
-## <code>05 // SIGNAL FROM THE OTHER SIDE</code>
+## 🌌 <code>05 · Signals from the other side</code>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIVIETNAM-AIO-khaisiubeo&bg_color=100817&color=e9d5ff&line=ff3158&point=67e8f9&area=true&hide_border=true&custom_title=SIGNAL%20ACTIVITY" alt="GitHub contribution activity graph" width="100%" />
 </div>
 
-## <code>06 // OPEN THE GATE</code>
+## 🚪 <code>06 · Open the gate</code>
 
 Want to collaborate on **medical AI, computer vision, ML engineering, or responsible agentic systems**? Explore my repositories or connect through GitHub.
 
@@ -129,6 +138,6 @@ Want to collaborate on **medical AI, computer vision, ML engineering, or respons
 
 <br/>
 
-<sub><code>END OF TRANSMISSION // MADE WITH CURIOSITY, CODE & TOO MUCH SYNTHWAVE</code></sub>
+<sub><code>End of transmission · made with curiosity, code & a little synthwave</code></sub>
 
 </div>
