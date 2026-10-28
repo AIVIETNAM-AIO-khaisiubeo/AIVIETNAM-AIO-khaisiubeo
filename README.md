@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1 align="center">✦ Duy Khai · ECE & AI Research</h1>
+<h1 align="center">✦ Nguyễn Duy Khải · ECE & AI Research</h1>
 <p align="center"><em>Curiosity from the ordinary world. Ideas from the other side.</em></p>
 
-<img src="https://raw.githubusercontent.com/AIVIETNAM-AIO-khaisiubeo/AIVIETNAM-AIO-khaisiubeo/main/assets/stranger-things-inspired-banner.svg?v=2" alt="Duy Khai — 1980s supernatural mystery banner with crimson title, glowing alphabet lights, fog and dark forest" width="100%" />
+<img src="https://raw.githubusercontent.com/AIVIETNAM-AIO-khaisiubeo/AIVIETNAM-AIO-khaisiubeo/main/assets/stranger-things-inspired-banner.svg?v=2" alt="Nguyễn Duy Khải — 1980s supernatural mystery banner with crimson title, glowing alphabet lights, fog and dark forest" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=700&color=FF3158&center=true&vCenter=true&width=780&height=48&lines=Hawkins+Lab+terminal+%2F%2F+1983;Subject+011%3A+Duy+Khai;Medical+AI+%2F%2F+computer+vision;Gate+detected%3A+human-centered+AI" alt="Retro terminal typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=700&color=FF3158&center=true&vCenter=true&width=780&height=48&lines=Hawkins+Lab+terminal+%2F%2F+1983;Subject+011%3A+Nguy%E1%BB%85n+Duy+Kh%E1%BA%A3i;Medical+AI+%2F%2F+computer+vision;Gate+detected%3A+human-centered+AI" alt="Retro terminal typing introduction" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-ff3158?style=for-the-badge&labelColor=100817" alt="Status online" />
