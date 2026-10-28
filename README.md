@@ -31,9 +31,6 @@
 
 ## 🗂️ <code>01 · Hawkins Lab personnel file</code>
 
-> `C:\DUYKHAI\PROFILE.exe`  
-> **Electrical & Computer Engineering student @ Vietnamese-German University (VGU)**  
-> **Mission:** build intelligent systems that are technically rigorous, useful, and careful about uncertainty.
 
 I'm interested in the intersection of **machine learning, computer vision, medical imaging, and agentic AI**. I like exploring the whole pipeline—not only model architecture and accuracy, but also data quality, calibration, evaluation, deployment, and how humans stay in control.
 
