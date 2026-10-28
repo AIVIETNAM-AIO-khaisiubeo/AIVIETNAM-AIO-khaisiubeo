@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Duy Khai — The Other Side</title>
+<desc id="desc">Original 1980s supernatural mystery atmosphere: foggy pine forest, crimson lightning, a glowing alphabet wall and warm Christmas lights, with Duy Khai in cinematic red lettering.</desc>
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#050509"/><stop offset=".52" stop-color="#18070e"/><stop offset="1" stop-color="#310913"/></linearGradient>
+ <radialGradient id="redfog"><stop stop-color="#a80f24" stop-opacity=".58"/><stop offset="1" stop-color="#280610" stop-opacity="0"/></radialGradient>
+ <linearGradient id="letters" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff1e9"/><stop offset=".55" stop-color="#ffb5b2"/><stop offset="1" stop-color="#b40b22"/></linearGradient>
+ <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+ <pattern id="grain" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".65" fill="#fff" opacity=".16"/><circle cx="7" cy="7" r=".5" fill="#ffb4bb" opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="360" fill="url(#sky)"/>
+<ellipse cx="600" cy="230" rx="560" ry="150" fill="url(#redfog)" filter="url(#soft)"/>
+<!-- distant storm and crooked red lightning -->
+<path d="M910 0 L880 70 910 62 860 151 895 139 850 207" fill="none" stroke="#ed1837" stroke-width="2" opacity=".7" filter="url(#glow)"/>
+<path d="M230 0 L250 55 224 52 270 119" fill="none" stroke="#a5102a" stroke-width="1.5" opacity=".55"/>
+<!-- distant treeline -->
+<path d="M0 230L35 175 52 218 78 154 102 221 136 170 155 222 186 149 213 226 247 183 275 230 310 166 335 225 365 178 394 229 428 160 455 226 490 184 520 230 560 173 586 228 620 160 650 229 683 177 712 230 744 165 775 226 806 174 836 232 868 160 895 225 929 179 957 229 990 156 1018 222 1051 174 1080 230 1111 164 1138 221 1170 174 1200 222V360H0Z" fill="#0b0a10"/>
+<!-- glowing alphabet wall -->
+<g opacity=".9" font-family="Georgia,serif" font-size="18" fill="#f9d6a0" text-anchor="middle">
+ <path d="M72 48 Q300 14 558 48 T1128 48" fill="none" stroke="#5c2928" stroke-width="2"/>
+ <g filter="url(#glow)">
+  <circle cx="105" cy="43" r="4" fill="#ffdca0"/><circle cx="180" cy="36" r="4" fill="#ff4e56"/><circle cx="255" cy="32" r="4" fill="#ffdca0"/><circle cx="330" cy="32" r="4" fill="#e7d4ff"/><circle cx="405" cy="36" r="4" fill="#ffdca0"/><circle cx="480" cy="43" r="4" fill="#ff4e56"/><circle cx="555" cy="48" r="4" fill="#ffdca0"/><circle cx="630" cy="48" r="4" fill="#ff4e56"/><circle cx="705" cy="43" r="4" fill="#ffdca0"/><circle cx="780" cy="36" r="4" fill="#e7d4ff"/><circle cx="855" cy="32" r="4" fill="#ffdca0"/><circle cx="930" cy="32" r="4" fill="#ff4e56"/><circle cx="1005" cy="36" r="4" fill="#ffdca0"/><circle cx="1080" cy="43" r="4" fill="#ff4e56"/>
+ </g>
+ <g opacity=".65"><text x="135" y="91">A</text><text x="220" y="91">B</text><text x="305" y="91">C</text><text x="390" y="91">D</text><text x="475" y="91">E</text><text x="560" y="91">F</text><text x="645" y="91">G</text><text x="730" y="91">H</text><text x="815" y="91">I</text><text x="900" y="91">J</text><text x="985" y="91">K</text><text x="1070" y="91">L</text></g>
+ <g filter="url(#glow)"><circle cx="135" cy="67" r="3" fill="#ffdca0"/><circle cx="220" cy="67" r="3" fill="#ff4e56"/><circle cx="305" cy="67" r="3" fill="#ffdca0"/><circle cx="390" cy="67" r="3" fill="#e7d4ff"/><circle cx="475" cy="67" r="3" fill="#ffdca0"/><circle cx="560" cy="67" r="3" fill="#ff4e56"/><circle cx="645" cy="67" r="3" fill="#ffdca0"/><circle cx="730" cy="67" r="3" fill="#ff4e56"/><circle cx="815" cy="67" r="3" fill="#ffdca0"/><circle cx="900" cy="67" r="3" fill="#e7d4ff"/><circle cx="985" cy="67" r="3" fill="#ffdca0"/><circle cx="1070" cy="67" r="3" fill="#ff4e56"/></g>
+</g>
+<!-- foreground fog -->
+<ellipse cx="600" cy="284" rx="600" ry="95" fill="#5d0b1a" opacity=".24" filter="url(#soft)"/>
+<!-- title, original lettering rather than the show's logo -->
+<text x="600" y="166" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="72" font-weight="bold" letter-spacing="7" fill="#8c061b" opacity=".9" filter="url(#glow)">DUY KHAI</text>
+<text x="600" y="161" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="72" font-weight="bold" letter-spacing="7" fill="url(#letters)" stroke="#ff3a4e" stroke-width="1.2" filter="url(#glow)">DUY KHAI</text>
+<path d="M270 178H930" stroke="#f52a43" stroke-width="1.2" opacity=".9" filter="url(#glow)"/>
+<text x="600" y="205" text-anchor="middle" font-family="Georgia,serif" font-size="17" letter-spacing="5" fill="#f7d8d8">ELECTRICAL &amp; COMPUTER ENGINEERING</text>
+<text x="600" y="232" text-anchor="middle" font-family="Courier New,monospace" font-size="13" letter-spacing="4" fill="#ff7d8d">MEDICAL AI  //  COMPUTER VISION  //  AGENTIC SYSTEMS</text>
+<!-- sharp black forest silhouette in front -->
+<path d="M0 360V286L20 250 35 287 54 232 72 287 91 260 108 300 132 226 154 299 175 261 192 306 220 241 241 302 265 267 284 310 309 245 333 305 355 271 377 316 402 247 424 309 447 270 470 316 494 251 517 311 541 274 560 319 585 242 610 317 632 267 654 311 677 250 699 316 721 270 744 311 768 238 790 308 812 263 835 315 858 247 880 307 904 268 926 317 950 239 973 306 997 263 1019 314 1043 247 1067 308 1089 267 1112 316 1137 240 1158 306 1180 261 1200 300V360Z" fill="#050509"/>
+<rect width="1200" height="360" fill="url(#grain)" opacity=".4"/>
+<rect x="9" y="9" width="1182" height="342" rx="3" fill="none" stroke="#d11b35" stroke-opacity=".6"/>
+<text x="30" y="333" font-family="Courier New,monospace" font-size="10" letter-spacing="2" fill="#ff7d8d">HAWKINS SIGNAL / 1980s SUPERNATURAL ARCHIVE</text>
+<text x="1170" y="333" text-anchor="end" font-family="Courier New,monospace" font-size="10" letter-spacing="2" fill="#ff7d8d">CHANNEL 011 // OPEN</text>
+</svg>
