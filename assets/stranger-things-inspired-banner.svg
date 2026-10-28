@@ -28,14 +28,14 @@
 <!-- foreground fog -->
 <ellipse cx="600" cy="284" rx="600" ry="95" fill="#5d0b1a" opacity=".24" filter="url(#soft)"/>
 <!-- title, original lettering rather than the show's logo -->
-<text x="600" y="161" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="58" font-weight="bold" letter-spacing="4" fill="url(#letters)" stroke="#ff3a4e" stroke-width="1.2" filter="url(#glow)">NGUYEN DUY KHAI</text>
+<text x="600" y="161" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="50" font-weight="bold" letter-spacing="3" fill="url(#letters)" stroke="#ff3a4e" stroke-width="1.2" filter="url(#glow)">NGUYEN DUY KHAI</text>
 <path d="M300 178H900" stroke="#f52a43" stroke-width="1.2" opacity=".9" filter="url(#glow)"/>
-<text x="600" y="205" text-anchor="middle" font-family="Georgia,serif" font-size="17" letter-spacing="5" fill="#f7d8d8">ELECTRICAL &amp; COMPUTER ENGINEERING</text>
-<text x="600" y="232" text-anchor="middle" font-family="Courier New,monospace" font-size="13" letter-spacing="4" fill="#ff7d8d">MEDICAL AI  //  COMPUTER VISION  //  AGENTIC SYSTEMS</text>
+<text x="600" y="205" text-anchor="middle" font-family="Georgia,serif" font-size="15" letter-spacing="3" fill="#f7d8d8">ELECTRICAL &amp; COMPUTER ENGINEERING</text>
+<text x="600" y="232" text-anchor="middle" font-family="Courier New,monospace" font-size="11" letter-spacing="2.5" fill="#ff7d8d">MEDICAL AI  //  COMPUTER VISION  //  AGENTIC SYSTEMS</text>
 <!-- sharp black forest silhouette in front -->
 <path d="M0 360V286L20 250 35 287 54 232 72 287 91 260 108 300 132 226 154 299 175 261 192 306 220 241 241 302 265 267 284 310 309 245 333 305 355 271 377 316 402 247 424 309 447 270 470 316 494 251 517 311 541 274 560 319 585 242 610 317 632 267 654 311 677 250 699 316 721 270 744 311 768 238 790 308 812 263 835 315 858 247 880 307 904 268 926 317 950 239 973 306 997 263 1019 314 1043 247 1067 308 1089 267 1112 316 1137 240 1158 306 1180 261 1200 300V360Z" fill="#050509"/>
 <rect width="1200" height="360" fill="url(#grain)" opacity=".4"/>
 <rect x="9" y="9" width="1182" height="342" rx="3" fill="none" stroke="#d11b35" stroke-opacity=".6"/>
-<text x="30" y="333" font-family="Courier New,monospace" font-size="10" letter-spacing="2" fill="#ff7d8d">HAWKINS SIGNAL / 1980s SUPERNATURAL ARCHIVE</text>
-<text x="1170" y="333" text-anchor="end" font-family="Courier New,monospace" font-size="10" letter-spacing="2" fill="#ff7d8d">CHANNEL 011 // OPEN</text>
+<text x="30" y="333" font-family="Courier New,monospace" font-size="9" letter-spacing="1.5" fill="#ff7d8d">HAWKINS SIGNAL / 1980s SUPERNATURAL ARCHIVE</text>
+<text x="1170" y="333" text-anchor="end" font-family="Courier New,monospace" font-size="9" letter-spacing="1.5" fill="#ff7d8d">CHANNEL 011 // OPEN</text>
 </svg>
