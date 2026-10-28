@@ -1,39 +1,55 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Duy Khai — ECE and AI Research" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Duy Khai — retro neon ECE and AI Research banner" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=55&lines=Electrical+%26+Computer+Engineering;Machine+Learning+%7C+Computer+Vision;Medical+AI+%7C+Agentic+Systems;Building+careful%2C+human-centered+AI" alt="Typing introduction" />
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=700&color=FF3158&center=true&vCenter=true&width=780&height=48&lines=BOOTING+DUY+KHAI.exe...;ELECTRICAL+%26+COMPUTER+ENGINEERING;MEDICAL+AI+%2F%2F+COMPUTER+VISION;SIGNAL+FOUND%3A+HUMAN-CENTERED+AI" alt="Retro terminal typing introduction" />
 
 <p>
-  <a href="https://github.com/AIVIETNAM-AIO-khaisiubeo"><img src="https://img.shields.io/badge/GitHub-AIVIETNAM--AIO--khaisiubeo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <img src="https://img.shields.io/badge/Focus-Medical%20AI-0F766E?style=for-the-badge" alt="Medical AI" />
-  <img src="https://img.shields.io/badge/Background-ECE-0369A1?style=for-the-badge" alt="Electrical and Computer Engineering" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-ff3158?style=for-the-badge&labelColor=100817" alt="Status online" />
+  <img src="https://img.shields.io/badge/CLASS-ECE%20%2B%20AI-8b5cf6?style=for-the-badge&labelColor=100817" alt="ECE and AI" />
+  <img src="https://img.shields.io/badge/LOCATION-VGU%20%2F%20GERMANY-67e8f9?style=for-the-badge&labelColor=100817" alt="VGU and Germany" />
 </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-khaisiubeo&style=flat-square&color=0F766E&label=PROFILE+VIEWS)](https://github.com/AIVIETNAM-AIO-khaisiubeo)
-[![Followers](https://img.shields.io/github/followers/AIVIETNAM-AIO-khaisiubeo?style=flat-square&logo=github&color=0EA5E9)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=followers)
-[![Stars](https://img.shields.io/github/stars/AIVIETNAM-AIO-khaisiubeo?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=apachespark&color=F59E0B)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-khaisiubeo&style=flat-square&color=ff3158&label=VISITORS)](https://github.com/AIVIETNAM-AIO-khaisiubeo)
+[![Followers](https://img.shields.io/github/followers/AIVIETNAM-AIO-khaisiubeo?style=flat-square&logo=github&color=8b5cf6&label=FOLLOWERS)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=followers)
+[![Stars](https://img.shields.io/github/stars/AIVIETNAM-AIO-khaisiubeo?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=apachespark&color=ffb454&label=STARS)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories)
 
 </div>
 
 ---
 
-## About Me
+## <code>01 // WHO AM I?</code>
 
-I'm an **Electrical & Computer Engineering student at Vietnamese-German University (VGU)** interested in building reliable intelligent systems. My current learning and project work sits at the intersection of **machine learning, computer vision, medical imaging, and agentic AI**.
+> `C:\DUYKHAI\PROFILE.exe`  
+> **Electrical & Computer Engineering student @ Vietnamese-German University (VGU)**  
+> **Mission:** build intelligent systems that are technically rigorous, useful, and careful about uncertainty.
 
-I enjoy going beyond model accuracy: understanding the data pipeline, uncertainty, calibration, evaluation, deployment, and how a human should remain in control of an AI-assisted workflow.
+I'm interested in the intersection of **machine learning, computer vision, medical imaging, and agentic AI**. I like exploring the whole pipeline—not only model architecture and accuracy, but also data quality, calibration, evaluation, deployment, and how humans stay in control.
 
-- 🔬 **Research interests:** medical image segmentation, uncertainty estimation, calibration, human–AI interaction, and AI agents.
-- 🧠 **Currently exploring:** PyTorch, modern vision architectures, agentic workflows, and reproducible ML engineering.
-- 🛠️ **Engineering interests:** Docker, APIs, embedded systems, and end-to-end pipelines.
-- 🤝 **Collaboration:** open to learning with people working on ML, computer vision, and responsible AI.
+- <img src="https://img.shields.io/badge/RESEARCH-MEDICAL%20AI-ff3158?style=flat-square&labelColor=100817" alt="Medical AI" /> Medical image segmentation, uncertainty estimation, calibration, and human–AI interaction.
+- <img src="https://img.shields.io/badge/BUILD-PYTORCH%20%2F%20DOCKER-8b5cf6?style=flat-square&labelColor=100817" alt="PyTorch and Docker" /> Modern vision architectures, reproducible ML, APIs, containers, and agentic workflows.
+- <img src="https://img.shields.io/badge/PRINCIPLE-HUMAN%20IN%20THE%20LOOP-67e8f9?style=flat-square&labelColor=100817" alt="Human in the loop" /> Transparent systems should know when to defer—not just when to predict.
 
-> *Build systems that are useful, interpretable, and careful about uncertainty.*
+<details>
+<summary><b>▶ Open terminal: current interests</b></summary>
 
-## Research and Projects
+```text
+C:\DUYKHAI> type interests.txt
+
+[01] MEDICAL IMAGE SEGMENTATION
+[02] UNCERTAINTY + MODEL CALIBRATION
+[03] COMPUTER VISION / DEEP LEARNING
+[04] AGENTIC AI + HUMAN-AI WORKFLOWS
+[05] DOCKER / REPRODUCIBLE ML SYSTEMS
+
+C:\DUYKHAI> _
+```
+
+</details>
+
+## <code>02 // PROJECTS FROM THE LAB</code>
 
 <table>
   <tr>
@@ -41,15 +57,15 @@ I enjoy going beyond model accuracy: understanding the data pipeline, uncertaint
       <a href="https://github.com/AIVIETNAM-AIO-khaisiubeo/Radiologist-Centered-AI-Agent">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=AIVIETNAM-AIO-khaisiubeo&repo=Radiologist-Centered-AI-Agent&theme=dark_github_repocard" alt="Radiologist-Centered-AI-Agent repository card" width="100%" />
       </a>
-      <strong>Radiologist-Centered AI Agent</strong><br/>
-      A research prototype exploring uncertainty-aware first-read support for liver CT, transparent triage, calibrated confidence, and radiologist review.
+      <b>🔴 Radiologist-Centered AI Agent</b><br/>
+      <sub>An uncertainty-aware research prototype for first-read support, transparent triage, calibrated confidence, and radiologist review.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AIVIETNAM-AIO-khaisiubeo/ReaderAdapt-Liver">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=AIVIETNAM-AIO-khaisiubeo&repo=ReaderAdapt-Liver&theme=dark_github_repocard" alt="ReaderAdapt-Liver repository card" width="100%" />
       </a>
-      <strong>ReaderAdapt-Liver</strong><br/>
-      A reader-adaptive research workflow with confidence calibration, feedback logging, decision policies, and explicit deferral.
+      <b>🟣 ReaderAdapt-Liver</b><br/>
+      <sub>A reader-adaptive workflow exploring confidence calibration, feedback logging, decision policies, and explicit deferral.</sub>
     </td>
   </tr>
   <tr>
@@ -57,64 +73,62 @@ I enjoy going beyond model accuracy: understanding the data pipeline, uncertaint
       <a href="https://github.com/AIVIETNAM-AIO-khaisiubeo/LiverSegmentationViTUNETR2.5D">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=AIVIETNAM-AIO-khaisiubeo&repo=LiverSegmentationViTUNETR2.5D&theme=dark_github_repocard" alt="LiverSegmentationViTUNETR2.5D repository card" width="100%" />
       </a>
-      <strong>Liver Segmentation — ViT-UNETR 2.5D</strong><br/>
-      Experiments with transformer-based medical image segmentation and 2.5D context for abdominal CT.
+      <b>🔵 Liver Segmentation — ViT-UNETR 2.5D</b><br/>
+      <sub>Transformer-based medical image segmentation experiments using 2.5D context for abdominal CT.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AIVIETNAM-AIO-khaisiubeo/Skin-Lesion-Segmentation">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=AIVIETNAM-AIO-khaisiubeo&repo=Skin-Lesion-Segmentation&theme=dark_github_repocard" alt="Skin-Lesion-Segmentation repository card" width="100%" />
       </a>
-      <strong>Skin Lesion Segmentation</strong><br/>
-      A computer-vision project focused on segmentation of skin lesions in medical images.
+      <b>🟠 Skin Lesion Segmentation</b><br/>
+      <sub>Computer-vision experiments for segmenting skin lesions in medical images.</sub>
     </td>
   </tr>
 </table>
 
-<sub>These links describe research and educational projects, not clinically validated medical devices.</sub>
+<sub>These are research and educational projects, not clinically validated medical devices.</sub>
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,opencv,sklearn,docker,git,github,linux,flask,arduino,vscode&perline=7&theme=dark" alt="Technologies and tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-PyTorch%20%7C%20scikit--learn-0F766E?style=flat-square&logo=pytorch&logoColor=white" alt="Machine learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-Segmentation-0369A1?style=flat-square&logo=opencv&logoColor=white" alt="Computer vision" />
-  <img src="https://img.shields.io/badge/Engineering-Docker%20%7C%20Git-334155?style=flat-square&logo=docker&logoColor=white" alt="Engineering tools" />
-</p>
-
-## GitHub Analytics
+## <code>03 // HARDWARE & SOFTWARE</code>
 
 <div align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-khaisiubeo&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&hide_border=true">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-khaisiubeo&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&hide_border=true&custom_title=GitHub%20Statistics" alt="GitHub statistics" />
-  </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-khaisiubeo&layout=compact&langs_count=8&theme=dark_github&hide_border=true">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-khaisiubeo&layout=compact&langs_count=8&theme=dark_github&hide_border=true" alt="Most used programming languages" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,opencv,sklearn,docker,git,github,linux,flask,arduino,vscode&perline=7&theme=dark" alt="Technology stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ML-PyTorch%20%7C%20scikit--learn-ff3158?style=flat-square&logo=pytorch&logoColor=white&labelColor=100817" alt="Machine learning" />
+<img src="https://img.shields.io/badge/VISION-OpenCV%20%7C%20SEGMENTATION-8b5cf6?style=flat-square&logo=opencv&logoColor=white&labelColor=100817" alt="Computer vision" />
+<img src="https://img.shields.io/badge/ENGINEERING-Docker%20%7C%20Git-67e8f9?style=flat-square&logo=docker&logoColor=white&labelColor=100817" alt="Engineering" />
+
+</div>
+
+## <code>04 // SYSTEM TELEMETRY</code>
+
+<div align="center">
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-khaisiubeo&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=100817&title_color=ff3158&icon_color=8b5cf6&text_color=e9d5ff&custom_title=PROFILE%20TELEMETRY" alt="GitHub statistics" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-khaisiubeo&layout=compact&langs_count=8&theme=dark_github&hide_border=true&bg_color=100817&title_color=ff3158&text_color=e9d5ff" alt="Most used programming languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AIVIETNAM-AIO-khaisiubeo&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub contribution streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AIVIETNAM-AIO-khaisiubeo&theme=dark&hide_border=true&background=100817&ring=ff3158&fire=ffb454&currStreakLabel=67e8f9&sideLabels=e9d5ff&dates=9f8fb5" alt="GitHub contribution streak" width="82%" />
 </div>
 
-## Contribution Graph
+## <code>05 // SIGNAL ACTIVITY</code>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIVIETNAM-AIO-khaisiubeo&bg_color=0D1117&color=BAE6FD&line=0EA5E9&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIVIETNAM-AIO-khaisiubeo&bg_color=100817&color=e9d5ff&line=ff3158&point=67e8f9&area=true&hide_border=true&custom_title=SIGNAL%20ACTIVITY" alt="GitHub contribution activity graph" width="100%" />
 </div>
 
-## Get in Touch
+## <code>06 // ESTABLISH CONNECTION</code>
 
-Interested in collaborating on **medical AI, computer vision, ML engineering, or responsible agentic systems**? The best starting point is one of my public repositories or a GitHub discussion.
+Want to collaborate on **medical AI, computer vision, ML engineering, or responsible agentic systems**? Explore my repositories or connect through GitHub.
 
 <div align="center">
 
-[![Explore repositories](https://img.shields.io/badge/Explore%20my%20repositories-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories)
+[![ENTER THE REPOSITORIES](https://img.shields.io/badge/ENTER%20THE%20REPOSITORIES-ff3158?style=for-the-badge&logo=github&logoColor=white&labelColor=100817)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0EA5E9,100:0F766E&height=110&section=footer" alt="" width="100%" />
+<br/>
 
-<sub>Made with curiosity, code, and a commitment to learning in public.</sub>
+<sub><code>END OF TRANSMISSION // MADE WITH CURIOSITY, CODE & TOO MUCH SYNTHWAVE</code></sub>
 
 </div>
