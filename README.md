@@ -12,7 +12,7 @@
 <p>
   <img src="https://img.shields.io/badge/Status-Online-ff3158?style=for-the-badge&labelColor=100817" alt="Status online" />
   <img src="https://img.shields.io/badge/Field-ECE%20%2B%20AI-8b5cf6?style=for-the-badge&labelColor=100817" alt="ECE and AI" />
-  <img src="https://img.shields.io/badge/Based-in-VGU%20%2F%20Germany-67e8f9?style=for-the-badge&labelColor=100817" alt="VGU and Germany" />
+  <img src="https://img.shields.io/badge/Location-VGU%20%2F%20Germany-67e8f9?style=for-the-badge&labelColor=100817" alt="VGU and Germany" />
 </p>
 
 [![Profile views](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-khaisiubeo&style=flat-square&color=ff3158&label=visitors)](https://github.com/AIVIETNAM-AIO-khaisiubeo)
