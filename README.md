@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0EA5E9,100:1D4ED8&height=230&section=header&text=Duy%20Khai&fontSize=54&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Electrical%20%26%20Computer%20Engineering%20%7C%20AI%20Research&descSize=17&descAlignY=56" alt="Duy Khai — ECE and AI Research" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Duy Khai — ECE and AI Research" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=55&lines=Electrical+%26+Computer+Engineering;Machine+Learning+%7C+Computer+Vision;Medical+AI+%7C+Agentic+Systems;Building+careful%2C+human-centered+AI" alt="Typing introduction" />
