@@ -1,25 +1,27 @@
-<div align="center">
+<div align="left">
 
-<h1>✦ Duy Khai · ECE & AI Research ✦</h1>
-<p><em>Curiosity from the ordinary world. Ideas from the other side.</em></p>
+<h1 align="left">✦ Duy Khai · ECE & AI Research</h1>
+<p align="left"><em>Curiosity from the ordinary world. Ideas from the other side.</em></p>
 
 <img src="https://raw.githubusercontent.com/AIVIETNAM-AIO-khaisiubeo/AIVIETNAM-AIO-khaisiubeo/main/assets/stranger-things-inspired-banner.svg?v=2" alt="Duy Khai — 1980s supernatural mystery banner with crimson title, glowing alphabet lights, fog and dark forest" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=700&color=FF3158&center=true&vCenter=true&width=780&height=48&lines=Hawkins+Lab+terminal+%2F%2F+1983;Subject+011%3A+Duy+Khai;Medical+AI+%2F%2F+computer+vision;Gate+detected%3A+human-centered+AI" alt="Retro terminal typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=700&color=FF3158&center=false&vCenter=true&width=780&height=48&lines=Hawkins+Lab+terminal+%2F%2F+1983;Subject+011%3A+Duy+Khai;Medical+AI+%2F%2F+computer+vision;Gate+detected%3A+human-centered+AI" alt="Retro terminal typing introduction" />
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Status-Online-ff3158?style=for-the-badge&labelColor=100817" alt="Status online" />
   <img src="https://img.shields.io/badge/Field-ECE%20%2B%20AI-8b5cf6?style=for-the-badge&labelColor=100817" alt="ECE and AI" />
   <img src="https://img.shields.io/badge/Location-VGU%20%2F%20Germany-67e8f9?style=for-the-badge&labelColor=100817" alt="VGU and Germany" />
 </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-khaisiubeo&style=flat-square&color=ff3158&label=visitors)](https://github.com/AIVIETNAM-AIO-khaisiubeo)
-[![Followers](https://img.shields.io/github/followers/AIVIETNAM-AIO-khaisiubeo?style=flat-square&logo=github&color=8b5cf6&label=followers)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=followers)
-[![Stars](https://img.shields.io/github/stars/AIVIETNAM-AIO-khaisiubeo?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=apachespark&color=ffb454&label=stars)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories)
+<p align="left">
+  <a href="https://github.com/AIVIETNAM-AIO-khaisiubeo"><img src="https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-khaisiubeo&style=flat-square&color=ff3158&label=visitors" alt="Profile views" /></a>
+  <a href="https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=followers"><img src="https://img.shields.io/github/followers/AIVIETNAM-AIO-khaisiubeo?style=flat-square&logo=github&color=8b5cf6&label=followers" alt="Followers" /></a>
+  <a href="https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories"><img src="https://img.shields.io/github/stars/AIVIETNAM-AIO-khaisiubeo?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=apachespark&color=ffb454&label=stars" alt="Stars" /></a>
+</p>
 
-
+</div>
 
 ## 🗂️ <code>01 · Hawkins Lab personnel file</code>
 
