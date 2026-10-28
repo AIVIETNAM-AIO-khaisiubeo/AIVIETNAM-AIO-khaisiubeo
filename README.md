@@ -20,7 +20,6 @@
 [![Stars](https://img.shields.io/github/stars/AIVIETNAM-AIO-khaisiubeo?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=apachespark&color=ffb454&label=stars)](https://github.com/AIVIETNAM-AIO-khaisiubeo?tab=repositories)
 
 
----
 
 ## 🗂️ <code>01 · Hawkins Lab personnel file</code>
 
