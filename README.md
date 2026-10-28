@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=700&color=FF3158&center=true&vCenter=true&width=780&height=48&lines=BOOTING+DUY+KHAI.exe...;ELECTRICAL+%26+COMPUTER+ENGINEERING;MEDICAL+AI+%2F%2F+COMPUTER+VISION;SIGNAL+FOUND%3A+HUMAN-CENTERED+AI" alt="Retro terminal typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=700&color=FF3158&center=true&vCenter=true&width=780&height=48&lines=HAWKINS+LAB+TERMINAL+%2F%2F+1983;SUBJECT+011%3A+DUY+KHAI;MEDICAL+AI+%2F%2F+COMPUTER+VISION;GATE+DETECTED%3A+HUMAN-CENTERED+AI" alt="Retro terminal typing introduction" />
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-ff3158?style=for-the-badge&labelColor=100817" alt="Status online" />
@@ -20,7 +20,7 @@
 
 ---
 
-## <code>01 // WHO AM I?</code>
+## <code>01 // HAWKINS LAB PERSONNEL FILE</code>
 
 > `C:\DUYKHAI\PROFILE.exe`  
 > **Electrical & Computer Engineering student @ Vietnamese-German University (VGU)**  
@@ -49,7 +49,7 @@ C:\DUYKHAI> _
 
 </details>
 
-## <code>02 // PROJECTS FROM THE LAB</code>
+## <code>02 // EXPERIMENTS FROM THE LAB</code>
 
 <table>
   <tr>
@@ -88,7 +88,7 @@ C:\DUYKHAI> _
 
 <sub>These are research and educational projects, not clinically validated medical devices.</sub>
 
-## <code>03 // HARDWARE & SOFTWARE</code>
+## <code>03 // LAB EQUIPMENT & FIELD TOOLS</code>
 
 <div align="center">
 
@@ -102,7 +102,7 @@ C:\DUYKHAI> _
 
 </div>
 
-## <code>04 // SYSTEM TELEMETRY</code>
+## <code>04 // POWER GRID TELEMETRY</code>
 
 <div align="center">
   <img height="175" src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-khaisiubeo&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=100817&title_color=ff3158&icon_color=8b5cf6&text_color=e9d5ff&custom_title=PROFILE%20TELEMETRY" alt="GitHub statistics" />
@@ -113,13 +113,13 @@ C:\DUYKHAI> _
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AIVIETNAM-AIO-khaisiubeo&theme=dark&hide_border=true&background=100817&ring=ff3158&fire=ffb454&currStreakLabel=67e8f9&sideLabels=e9d5ff&dates=9f8fb5" alt="GitHub contribution streak" width="82%" />
 </div>
 
-## <code>05 // SIGNAL ACTIVITY</code>
+## <code>05 // SIGNAL FROM THE OTHER SIDE</code>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIVIETNAM-AIO-khaisiubeo&bg_color=100817&color=e9d5ff&line=ff3158&point=67e8f9&area=true&hide_border=true&custom_title=SIGNAL%20ACTIVITY" alt="GitHub contribution activity graph" width="100%" />
 </div>
 
-## <code>06 // ESTABLISH CONNECTION</code>
+## <code>06 // OPEN THE GATE</code>
 
 Want to collaborate on **medical AI, computer vision, ML engineering, or responsible agentic systems**? Explore my repositories or connect through GitHub.
 
